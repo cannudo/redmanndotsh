@@ -1,6 +1,6 @@
-### Saudações, praiero 👋
+### Saudações, dev 👋
 
-Gosto de aprender para ensinar. Vamos tomar um café ouvindo Terno Rei? Você pode me ensinar algo novo 😀
+Além de uma prainha, gosto de aprender para ensinar. Vamos tomar um café ouvindo Terno Rei? Você pode me ensinar algo novo 😀
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
